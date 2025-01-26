@@ -1,20 +1,19 @@
-# [Project Name] 🎯
+# personal expense tracker 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: tech squad
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1:anaam mariyam-gcek
+- Member 2:aleena binu-gcek
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://tech-squad1.github.io/personal-expense-tracker/
 
 ### Project Description
-[2-3 lines about what your project does]
+Build a simple web or mobile app where users can track their daily expenses. This app will help users add expenses, categorize them (e.g., food, transport, entertainment), and view a summary of their spending
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -25,15 +24,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- python
+- html
+- java script
+- css
 
 ### Implementation
 For Software:
@@ -91,9 +85,6 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Anaam and Aleena tackled the project like a dream team—brilliant ideas, clean code, and just enough chaos to keep it fun. They nailed it together!"
 ---
 Made with ❤️ at TinkerHub
